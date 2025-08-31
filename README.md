@@ -3,7 +3,7 @@
 
 ### Olá!! eu sou o Dion Romero 🖐️
 
-[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dion-romero-347643296)[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dion_alcantara/)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dion-romero-347643296)
 
 ![dion GitHub stats](https://github-readme-stats.vercel.app/api?username=dionromero&show_icons=true&theme=dark)
 
@@ -15,4 +15,4 @@
 <img aling="center" alt="c++" src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white>
 </div><br/>
 
-Estudante de Ciência da Computação, atualmente no 2º período, com forte interesse em desenvolvimento de software e administração de sistemas. Tenho conhecimento básico em linguagens de programação como Python e C++, além de fundamentos de banco de dados.
+Estudante de Ciência da Computação, atualmente no 4º período, com forte interesse em desenvolvimento de software e administração de sistemas. Tenho conhecimento básico em linguagens de programação como Python e C, além de fundamentos de banco de dados.
