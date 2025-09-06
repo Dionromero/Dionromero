@@ -29,10 +29,10 @@
 <h1>Tecnologias que eu uso</h1>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&amp;logo=python&amp;logoColor=white">
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2.0.3-blue?style=for-the-badge&amp;logo=pandas&amp;logoColor=white">
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-2.0-orange?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge&amp;logo=pandas&amp;logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-3.1.0-brightgreen?style=for-the-badge&amp;logo=springboot&amp;logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-15-blue?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&amp;logo=springboot&amp;logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white">
 </p>
 
