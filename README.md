@@ -23,7 +23,7 @@
 
 <h1>GitHub Stats</h1>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dionromero&amp;show_icons=true&amp;theme=tokyonight" alt="Dion GitHub stats" style="width: 100%; max-width: 500px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dionromero&amp;show_icons=true&amp;theme=tokyonight" alt="Dion GitHub stats" style="width: 50%; max-width: 500px;">
 </p>
 
 <h1>Tecnologias que eu uso</h1>
