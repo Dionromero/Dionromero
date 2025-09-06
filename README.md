@@ -1,21 +1,34 @@
+<h1>Olá!! eu sou o Dion Romero 🖐️</h1>
 
+<p>
+  <a href="https://linkedin.com/in/dion-romero-347643296">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/dion_alcantara/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:dionalcantara20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Enviar-red?style=for-the-badge&amp;logo=gmail" alt="Email">
+  </a>
+</p>
 
+<h1>GitHub Stats</h1>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=dionromero&amp;show_icons=true&amp;theme=tokyonight" alt="Dion GitHub stats">
+</p>
 
-### Olá!! eu sou o Dion Romero 🖐️
+<h1>Tecnologias que eu uso</h1>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&amp;logo=python&amp;logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2.0.3-blue?style=for-the-badge&amp;logo=pandas">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-2.0-orange?style=for-the-badge&amp;logo=pytorch">
+  <img alt="Java" src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&amp;logo=openjdk">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-3.1.0-brightgreen?style=for-the-badge&amp;logo=springboot">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-15-blue?style=for-the-badge&amp;logo=postgresql">
+</p>
 
-[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dion-romero-347643296)[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dion_alcantara/)[![gmail](https://img.shields.io/badge/Email-Enviar-red?logo=gmail)](mailto:dionalcantara20@gmail.com)
-
-![dion GitHub stats](https://github-readme-stats.vercel.app/api?username=dionromero&show_icons=true&theme=dark)
-
-### Tecnologias que eu uso:
-
-<div style="display inline_block"><br/>
-<img aling="center" alt="python" src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white>
-<img aling="center" alt="Pandas" src=https://img.shields.io/badge/Pandas-2.0.3-blue?logo=pandas>
-<img aling="center" alt="Pytorch" src=(https://img.shields.io/badge/PyTorch-2.0-orange?logo=pytorc>
-<img aling="center" alt="java" src=https://img.shields.io/badge/Java-17-blue?logo=openjdk>
-<img aling="center" alt="Spring Boot" src=https://img.shields.io/badge/Spring%20Boot-3.1.0-brightgreen?logo=springboot>
-</div><br/>
-
-Tenho conhecimento em linguagens de programação como Python e Java com frameworks (pytorch, pandas, spring boot), juntamente com fundamentos de banco de dados (SQL). Estudante de Ciência da Computação na Gran faculdade, atualmente no 4º período, com interesse em desenvolvimento de software, big data e modelos preditivos. 
-Tenho muita curiosidade e vontade de atuar na área de tecnologia desde infância e sempre busco estar por dentro das ferramentas atuais do mercado, aprender novas habilidades. Tenho facilidade em trabalhar em equipe e estou sempre disposto a enfrentar novos desafios.
+<h1>Sobre mim</h1>
+<p>Sou estudante de <strong>Ciência da Computação</strong> na <strong>Gran Faculdade</strong>, atualmente no <strong>4º período</strong>.</p>
+<p>Tenho experiência em <strong>Python</strong> e <strong>Java</strong>, utilizando frameworks como <strong>Pandas</strong>, <strong>PyTorch</strong> e <strong>Spring Boot</strong>, além de conhecimento em <strong>bancos de dados SQL</strong>.</p>
+<p>Tenho interesse em <strong>desenvolvimento de software</strong>, <strong>Big Data</strong> e <strong>modelos preditivos/Machine Learning</strong>.</p>
+<p>Desde criança sou curioso por tecnologia e busco estar sempre atualizado com as ferramentas do mercado. Tenho facilidade em trabalhar em equipe e estou sempre disposto a enfrentar novos desafios.</p>
