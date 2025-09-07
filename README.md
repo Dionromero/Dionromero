@@ -17,13 +17,14 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:dionalcantara20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Enviar-red?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
   </a>
 </p>
 
 <h1>GitHub Stats</h1>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dionromero&amp;show_icons=true&amp;theme=tokyonight" alt="Dion GitHub stats" style="width: 50%; max-width: 500px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dionromero&amp;show_icons=true&amp;theme=tokyonight&amp;hide=contribs,issues" alt="Dion GitHub stats" style="width: 50%; max-width: 500px;">
+
 </p>
 
 <h1>Tecnologias que eu uso</h1>
