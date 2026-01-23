@@ -1,4 +1,4 @@
-<h1>Olá!! eu sou o Dion Romero </h1>
+<h1>Olá!! eu sou o Dion Romero.</h1>
 
 <article>
   <h1>Sobre mim</h1>
