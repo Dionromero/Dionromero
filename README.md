@@ -27,22 +27,6 @@
 
 ---
 
-<h2>Contato</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/dion-romero-347643296" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/dion_alcantara/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:dionalcantara20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
 <h2>GitHub Stats</h2>
 
 <p align="center">
@@ -78,3 +62,36 @@
   <li>Banco de dados relacional (PostgreSQL)</li>
 </ul>
 
+<p align="center">
+  Código simples, bem organizado e fácil de evoluir.
+</p>
+
+---
+
+<h2>Contato</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/dion-romero-347643296" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      width="48"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/dion_alcantara/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"
+      width="48"
+      alt="Instagram"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:dionalcantara20@gmail.com">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+      width="48"
+      alt="Email"
+    />
+  </a>
+</p>
