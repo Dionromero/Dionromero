@@ -73,7 +73,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/dion-romero-347643296" target="_blank">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      src="https://skillicons.dev/icons?i=linkedin"
       width="48"
       alt="LinkedIn"
     />
@@ -81,7 +81,7 @@
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/dion_alcantara/" target="_blank">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"
+      src="https://skillicons.dev/icons?i=instagram"
       width="48"
       alt="Instagram"
     />
@@ -89,7 +89,7 @@
   &nbsp;&nbsp;
   <a href="mailto:dionalcantara20@gmail.com">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+      src="https://skillicons.dev/icons?i=gmail"
       width="48"
       alt="Email"
     />
