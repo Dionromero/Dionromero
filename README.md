@@ -3,7 +3,7 @@
 <p align="center">
   Estudante de <strong>Ciência da Computação</strong> •
   5º período •
-  Desenvolvimento Web e Backend
+  Desenvolvedor Full Stack
 </p>
 
 ---
@@ -13,14 +13,16 @@
 <p>
   Sou estudante de <strong>Ciência da Computação</strong> na
   <strong>Gran Faculdade</strong>, atualmente no <strong>5º período</strong>.
-  Tenho foco em desenvolvimento web, com interesse em backend, arquitetura
-  de software e boas práticas de código.
+  Atuo como desenvolvedor <strong>Full Stack</strong>, utilizando
+  <strong>TypeScript</strong> tanto no frontend quanto no backend,
+  sempre buscando código bem estruturado e fácil de manter.
 </p>
 
 <p>
-  Trabalho principalmente com <strong>JavaScript</strong> e
-  <strong>TypeScript</strong>, criando interfaces com <strong>React</strong>
-  e APIs bem estruturadas no backend.
+  No frontend, trabalho com <strong>React</strong> e interfaces modernas.
+  No backend, desenvolvo APIs com <strong>Bun</strong> e <strong>Elysia</strong>,
+  aplicando conceitos de <strong>DDD</strong>, arquitetura em camadas e
+  boas práticas de desenvolvimento.
 </p>
 
 ---
@@ -29,22 +31,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/dion-romero-347643296" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/dion_alcantara/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:dionalcantara20@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -69,22 +62,22 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,html,css,python,postgres,git,docker"
-    alt="Tecnologias"
+    src="https://skillicons.dev/icons?i=typescript,javascript,react,html,css,bun,elysia,nodejs,postgres,docker,git"
   />
 </p>
 
 ---
 
-<h2>Interesses de estudo</h2>
+<h2>Conceitos e práticas</h2>
 
 <ul>
-  <li>Arquitetura de software</li>
+  <li>Desenvolvimento Full Stack com TypeScript</li>
+  <li>Arquitetura em camadas e DDD</li>
   <li>APIs REST e autenticação</li>
-  <li>Boas práticas com TypeScript</li>
-  <li>Bancos de dados relacionais</li>
+  <li>Frontend moderno com React</li>
+  <li>Banco de dados relacional (PostgreSQL)</li>
 </ul>
 
 <p align="center">
-  Código simples é mais fácil de manter.
+  Código simples, bem organizado e fácil de evoluir.
 </p>
