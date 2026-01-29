@@ -78,6 +78,3 @@
   <li>Banco de dados relacional (PostgreSQL)</li>
 </ul>
 
-<p align="center">
-  Código simples, bem organizado e fácil de evoluir.
-</p>
