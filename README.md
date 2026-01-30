@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Dion Romero</h1>
+<h1 align="center"> Dion Romero</h1>
 
 <p align="center">
   Estudante de <strong>Ciência da Computação</strong> •
