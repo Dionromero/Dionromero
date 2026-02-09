@@ -8,7 +8,7 @@
 
 ---
 
-<h2>Sobre mim</h2>
+<h2 align="center">Sobre mim</h2>
 
 <p>
   Sou estudante de <strong>Ciência da Computação</strong>, atualmente no
@@ -27,7 +27,7 @@
 
 ---
 
-<h2>GitHub Stats</h2>
+<h2align="center">GitHub Stats</h2>
 
 <p align="center">
   <img
@@ -61,7 +61,7 @@
 
 ---
 
-<h2>Conceitos e práticas</h2>
+<h2 align="center">Conceitos e práticas</h2>
 
 <ul>
   <li>Desenvolvimento Full Stack com TypeScript</li>
@@ -73,7 +73,7 @@
 
 ---
 
-<h2>Contato</h2>
+<h2 align="center">Contato</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/dion-romero-347643296" target="_blank">
