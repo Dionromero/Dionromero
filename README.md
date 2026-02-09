@@ -30,14 +30,9 @@
 <h2>GitHub Stats</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=dionromero&show_icons=true&theme=tokyonight&hide=contribs,issues"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionromero&layout=compact&theme=tokyonight"
-    height="170"
-  />
+<img
+  src="https://github-readme-stats.vercel.app/api/stats?username=dionromero&type=repos-list&maxRepos=10&theme=transparent&showBorder=false"
+/>
 </p>
 
 ---
