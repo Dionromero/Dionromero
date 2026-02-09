@@ -37,25 +37,25 @@
 
 ---
 
-<h2>Tecnologias</h2>
+<h2 align="center">Tecnologias</h2>
 
-<h3>Frontend</h3>
-<p align="central">
+<h3 align="center">Frontend</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,javascript,typescript" />
 </p>
 
-<h3>Backend</h3>
-<p align="central">
+<h3 align="center">Backend</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=bun,elysia,nodejs,typescript" />
 </p>
 
-<h3>Banco de Dados</h3>
-<p align="central">
+<h3 align="center">Banco de Dados</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
-<h3>DevOps & Ferramentas</h3>
-<p align="central">
+<h3 align="center">DevOps & Ferramentas</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git" />
 </p>
 
