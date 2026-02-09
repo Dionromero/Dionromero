@@ -10,7 +10,7 @@
 
 <h2 align="center">Sobre mim</h2>
 
-<p>
+<p align="justify">
   Sou estudante de <strong>Ciência da Computação</strong>, atualmente no
   <strong>5º período</strong>.
   Atuo como desenvolvedor <strong>Full Stack</strong>, utilizando
@@ -18,7 +18,7 @@
   sempre buscando código bem estruturado, escalável e fácil de manter.
 </p>
 
-<p>
+<p align="justify">
   No frontend, trabalho com <strong>React</strong> e interfaces modernas.
   No backend, desenvolvo APIs com <strong>Bun</strong> e <strong>Elysia</strong>,
   aplicando conceitos de <strong>DDD</strong>, arquitetura em camadas e
@@ -63,7 +63,7 @@
 
 <h2 align="center">Conceitos e práticas</h2>
 
-<ul>
+<ul align="center">
   <li>Desenvolvimento Full Stack com TypeScript</li>
   <li>Arquitetura em camadas e Domain-Driven Design (DDD)</li>
   <li>APIs REST e autenticação</li>
