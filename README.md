@@ -61,15 +61,15 @@
 
 ---
 
-<h2 align="center">Conceitos e práticas</h2>
+<h2 align="center">Conceitos e Práticas</h2>
 
-<ul align="center">
-  Desenvolvimento Full Stack com TypeScript
-  Arquitetura em camadas e Domain-Driven Design (DDD)
-  APIs REST e autenticação
-  Frontend moderno com React
-  Banco de dados relacional (PostgreSQL)
-</ul>
+<p align="center">
+  ✔️ Desenvolvimento Full Stack com TypeScript<br/>
+  ✔️ Arquitetura em camadas e Domain-Driven Design (DDD)<br/>
+  ✔️ APIs REST e autenticação<br/>
+  ✔️ Frontend moderno com React<br/>
+  ✔️ Banco de dados relacional (PostgreSQL)
+</p>
 
 ---
 
