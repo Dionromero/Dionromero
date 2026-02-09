@@ -35,36 +35,27 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dionromero&theme=transparent"
-  />
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dionromero&theme=transparent"
-  />
-</p>
-
 ---
 
 <h2>Tecnologias</h2>
 
 <h3>Frontend</h3>
-<p align="center">
+<p align="central">
   <img src="https://skillicons.dev/icons?i=react,html,css,javascript,typescript" />
 </p>
 
 <h3>Backend</h3>
-<p align="center">
+<p align="central">
   <img src="https://skillicons.dev/icons?i=bun,elysia,nodejs,typescript" />
 </p>
 
 <h3>Banco de Dados</h3>
-<p align="center">
+<p align="central">
   <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 <h3>DevOps & Ferramentas</h3>
-<p align="center">
+<p align="central">
   <img src="https://skillicons.dev/icons?i=docker,git" />
 </p>
 
