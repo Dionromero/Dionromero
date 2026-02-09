@@ -31,7 +31,7 @@
 
 <p align="center">
 <img
-  src="https://github-readme-stats.vercel.app/api/stats?username=dionromero&type=repos-list&maxRepos=10&theme=transparent&showBorder=false"
+  src=http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username{Dionromero}&theme{transparent}&exclude{exclude}
 />
 </p>
 
