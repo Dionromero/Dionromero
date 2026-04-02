@@ -8,21 +8,6 @@
 
 <h2 align="center">Sobre mim</h2>
 
-<<<<<<< HEAD
-<p align="justify">
-  Sou estudante de <strong>Ciência da Computação</strong>, atualmente no
-  <strong>5º período</strong>.
-  Atuo como desenvolvedor <strong>Full Stack</strong>, utilizando
-  <strong>TypeScript</strong> tanto no frontend quanto no backend,
-  sempre buscando código bem estruturado, escalável e fácil de manter.
-</p>
-
-<p align="justify">
-  No frontend, trabalho com <strong>React</strong> e interfaces modernas.
-  No backend, desenvolvo APIs com <strong>Bun</strong> e <strong>Elysia</strong>,
-  aplicando conceitos de <strong>DDD</strong>, arquitetura em camadas e
-  boas práticas de desenvolvimento.
-=======
 <p>
   Sou desenvolvedor <strong>Full Stack</strong>, adepto ao uso de
   <strong>TypeScript</strong> em toda a stack e à construção de sistemas
