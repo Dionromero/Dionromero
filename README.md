@@ -1,8 +1,6 @@
 <h1 align="center">Dion Romero</h1>
 
 <p align="center">
-  Estudante de <strong>Ciência da Computação</strong> •
-  5º período •
   Desenvolvedor Full Stack
 </p>
 
@@ -10,6 +8,7 @@
 
 <h2 align="center">Sobre mim</h2>
 
+<<<<<<< HEAD
 <p align="justify">
   Sou estudante de <strong>Ciência da Computação</strong>, atualmente no
   <strong>5º período</strong>.
@@ -23,6 +22,21 @@
   No backend, desenvolvo APIs com <strong>Bun</strong> e <strong>Elysia</strong>,
   aplicando conceitos de <strong>DDD</strong>, arquitetura em camadas e
   boas práticas de desenvolvimento.
+=======
+<p>
+  Sou desenvolvedor <strong>Full Stack</strong>, adepto ao uso de
+  <strong>TypeScript</strong> em toda a stack e à construção de sistemas
+  baseados em <strong>DDD (Domain-Driven Design)</strong>, sempre buscando
+  código limpo, bem estruturado e de fácil manutenção.
+</p>
+
+<p>
+  No frontend, trabalho com <strong>React</strong>, desenvolvendo interfaces
+  modernas, performáticas e focadas na experiência do usuário. No backend,
+  utilizo <strong>Bun</strong> e <strong>Elysia</strong> para construir APIs
+  escaláveis, aplicando arquitetura em camadas e boas práticas que facilitam
+  a evolução e a consistência dos sistemas.
+>>>>>>> 8c6fc6f (refactor: remove academic info and simplify header to full stack developer)
 </p>
 
 ---
@@ -31,7 +45,11 @@
 
 <p align="center">
   <img
+<<<<<<< HEAD
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dionromero&theme=transparent"
+=======
+    src="https://skillicons.dev/icons?i=typescript,javascript,react,html,css,bun,elysia,nodejs,postgres,mongodb,docker,git"
+>>>>>>> 8c6fc6f (refactor: remove academic info and simplify header to full stack developer)
   />
 </p>
 
