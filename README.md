@@ -21,7 +21,6 @@
   utilizo <strong>Bun</strong> e <strong>Elysia</strong> para construir APIs
   escaláveis, aplicando arquitetura em camadas e boas práticas que facilitam
   a evolução e a consistência dos sistemas.
->>>>>>> 8c6fc6f (refactor: remove academic info and simplify header to full stack developer)
 </p>
 
 ---
@@ -30,11 +29,7 @@
 
 <p align="center">
   <img
-<<<<<<< HEAD
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dionromero&theme=transparent"
-=======
-    src="https://skillicons.dev/icons?i=typescript,javascript,react,html,css,bun,elysia,nodejs,postgres,mongodb,docker,git"
->>>>>>> 8c6fc6f (refactor: remove academic info and simplify header to full stack developer)
   />
 </p>
 
