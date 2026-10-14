@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="580" viewBox="0 0 860 580" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="14">
+  <style>
+    .k { fill: #35bf5c; font-weight: 700; }
+    .v { fill: #c9d1d9; }
+    .m { fill: #8b949e; }
+    .p { fill: #35bf5c; font-weight: 700; }
+    .h { fill: #58a6ff; font-weight: 700; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <!-- janela -->
+  <rect x="0.5" y="0.5" width="859" height="579" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <path d="M0.5 36 V10.5 a10 10 0 0 1 10 -10 H849.5 a10 10 0 0 1 10 10 V36 Z" fill="#161b22"/>
+  <line x1="0.5" y1="36" x2="859.5" y2="36" stroke="#30363d"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="18" r="6" fill="#27c93f"/>
+  <text x="430" y="23" text-anchor="middle" class="m" font-size="13">dion@github: ~</text>
+
+  <!-- prompt -->
+  <text x="24" y="68"><tspan class="p">dion@github</tspan><tspan class="v">:</tspan><tspan class="h">~</tspan><tspan class="v">$ fastfetch</tspan></text>
+
+  <!-- logo Manjaro -->
+  <g fill="#35bf5c" transform="translate(40 110)">
+    <rect x="0" y="0" width="144" height="72"/>
+    <rect x="0" y="72" width="64" height="180"/>
+    <rect x="80" y="90" width="64" height="162"/>
+    <rect x="160" y="0" width="64" height="252"/>
+  </g>
+
+  <!-- informações -->
+  <text x="300" y="104"><tspan class="k">dion</tspan><tspan class="v">@</tspan><tspan class="k">github</tspan></text>
+  <text x="300" y="124" class="v">------------------</text>
+
+  <text x="300" y="148" class="k">OS</text>           <text x="430" y="148" class="v">Manjaro Linux x86_64</text>
+  <text x="300" y="170" class="k">Host</text>         <text x="430" y="170" class="v">Dion Romero</text>
+  <text x="300" y="192" class="k">Role</text>         <text x="430" y="192" class="v">Desenvolvedor Full Stack</text>
+  <text x="300" y="214" class="k">Shell</text>        <text x="430" y="214" class="v">zsh</text>
+  <text x="300" y="236" class="k">Uptime</text>       <text x="430" y="236" class="v">sempre codando</text>
+  <text x="300" y="258" class="k">Languages</text>    <text x="430" y="258" class="v">TypeScript, JavaScript</text>
+  <text x="300" y="280" class="k">Frontend</text>     <text x="430" y="280" class="v">React, HTML, CSS</text>
+  <text x="300" y="302" class="k">Backend</text>      <text x="430" y="302" class="v">Bun, Elysia, Node.js</text>
+  <text x="300" y="324" class="k">Database</text>     <text x="430" y="324" class="v">PostgreSQL</text>
+  <text x="300" y="346" class="k">DevOps</text>       <text x="430" y="346" class="v">Docker, Git</text>
+  <text x="300" y="368" class="k">Architecture</text> <text x="430" y="368" class="v">DDD, Arquitetura em camadas</text>
+  <text x="300" y="390" class="k">APIs</text>         <text x="430" y="390" class="v">REST, Autenticação</text>
+  <text x="300" y="412" class="k">Focus</text>        <text x="430" y="412" class="v">Código limpo e de fácil manutenção</text>
+  <text x="300" y="434" class="k">Contact</text>      <text x="430" y="434" class="v">dionalcantara20@gmail.com</text>
+
+  <!-- paleta de cores -->
+  <g transform="translate(300 456)">
+    <rect x="0"   y="0" width="28" height="16" fill="#484f58"/>
+    <rect x="28"  y="0" width="28" height="16" fill="#ff7b72"/>
+    <rect x="56"  y="0" width="28" height="16" fill="#35bf5c"/>
+    <rect x="84"  y="0" width="28" height="16" fill="#d29922"/>
+    <rect x="112" y="0" width="28" height="16" fill="#58a6ff"/>
+    <rect x="140" y="0" width="28" height="16" fill="#bc8cff"/>
+    <rect x="168" y="0" width="28" height="16" fill="#39c5cf"/>
+    <rect x="196" y="0" width="28" height="16" fill="#c9d1d9"/>
+    <rect x="0"   y="16" width="28" height="16" fill="#6e7681"/>
+    <rect x="28"  y="16" width="28" height="16" fill="#ffa198"/>
+    <rect x="56"  y="16" width="28" height="16" fill="#56d364"/>
+    <rect x="84"  y="16" width="28" height="16" fill="#e3b341"/>
+    <rect x="112" y="16" width="28" height="16" fill="#79c0ff"/>
+    <rect x="140" y="16" width="28" height="16" fill="#d2a8ff"/>
+    <rect x="168" y="16" width="28" height="16" fill="#56d4dd"/>
+    <rect x="196" y="16" width="28" height="16" fill="#f0f6fc"/>
+  </g>
+
+  <!-- prompt final -->
+  <text x="24" y="544"><tspan class="p">dion@github</tspan><tspan class="v">:</tspan><tspan class="h">~</tspan><tspan class="v" xml:space="preserve">$ </tspan><tspan class="v cursor">█</tspan></text>
+</svg>
